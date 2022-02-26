@@ -1,0 +1,8 @@
+.header{color: rgb(255, 255, 255);text-align: center; border-bottom: 3px solid rgb(255, 255, 255); margin: 0; height: 50px; font-size: 2rem; display:flex; 
+    justify-content: space-between; align-items: top; margin:0 auto}
+.container{background-image: linear-gradient(rgb(175, 138, 89),white); margin: 0;}
+body{margin: 0;}
+a{color: white; text-decoration: none;}
+.nav{font-size: 1rem; padding: 13px;}
+header{padding-left: 10px;}
+.h1{padding-left: 50px;}
